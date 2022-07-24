@@ -42,6 +42,11 @@
     outline: none;
 }
 
+.search{
+    width: 500px;
+    display: flex;
+}
+
 .search-btn{
     width: 20%;
     height: 40px;
