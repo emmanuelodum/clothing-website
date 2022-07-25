@@ -65,3 +65,9 @@
 .search-box::placeholder{
     color: #a9a9a9;
 }
+
+.nav-items a{
+    margin-left: 20px;
+    font-size: 2rem;
+    color: black;
+}
