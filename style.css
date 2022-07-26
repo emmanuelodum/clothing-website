@@ -90,3 +90,7 @@
     opacity: 0.5;
     transition: .5s;
 }
+
+.link:hover{
+    opacity: 1;
+}
