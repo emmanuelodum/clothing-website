@@ -30,3 +30,10 @@
     overflow: hidden;
     padding: 20px 0;
 }
+
+.product-category{
+    padding: 0 10vw;
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 40px;
+}
