@@ -39,7 +39,14 @@
     text-transform: capitalize;
 }
 
-.card-btn{
+.product-container{
+    padding: 0 10vw;
+    display: flex;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+}
+
+/* .card-btn{
     position: absolute;
     bottom: 10px;
     left: 50%;
@@ -53,4 +60,4 @@
     border-radius: 5px;
     transition: 0.5s ease;
     cursor: pointer;
-}
+} */
