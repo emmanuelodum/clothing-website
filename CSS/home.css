@@ -101,3 +101,7 @@
 .product-card:hover .card-btn{
     opacity: 1;
 }
+
+.card-btn:hover{
+    background: #ff7d7d;
+}
