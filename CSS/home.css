@@ -116,6 +116,14 @@
     text-transform: uppercase;
 }
 
+.product-short-des{
+    width: 100%;
+    height: 20px;
+    line-height: 20px;
+    overflow: hidden;
+    opacity: 0.5;
+}
+
 /* .discount-tag{
     position: absolute;
 } */
