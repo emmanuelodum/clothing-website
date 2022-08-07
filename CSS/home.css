@@ -112,6 +112,10 @@
     padding-top: 10px;
 }
 
+.product-brand{
+    text-transform: uppercase;
+}
+
 /* .discount-tag{
     position: absolute;
 } */
