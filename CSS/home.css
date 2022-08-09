@@ -159,6 +159,14 @@
 .nxt-btn{
     right: 0;
 }
+
+.pre-btn, .nxt-btn{
+    opacity: 0.2;
+}
+
+.pre-btn:hover, .nxt-btn:hover{
+    opacity: 1;
+}
 /* .discount-tag{
     position: absolute;
 } */
