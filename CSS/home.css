@@ -150,6 +150,11 @@
     cursor: pointer;
     z-index: 8;
 }
+
+.pre-btn{
+    left: 0;
+    transform: rotate(180deg);
+}
 /* .discount-tag{
     position: absolute;
 } */
