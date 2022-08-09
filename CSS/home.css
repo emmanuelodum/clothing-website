@@ -155,6 +155,10 @@
     left: 0;
     transform: rotate(180deg);
 }
+
+.nxt-btn{
+    right: 0;
+}
 /* .discount-tag{
     position: absolute;
 } */
