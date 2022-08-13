@@ -167,6 +167,12 @@
 .pre-btn:hover, .nxt-btn:hover{
     opacity: 1;
 }
-/* .discount-tag{
-    position: absolute;
-} */
+
+/* collections */
+
+.collection-container{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+}
