@@ -11,3 +11,7 @@ footer{
     width: 100%;
     justify-content: space-between;
 }
+
+.footer-content .logo{
+    height: 160px;
+}
