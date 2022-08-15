@@ -36,3 +36,9 @@ footer{
     text-transform: capitalize;
     color: #fff;
 }
+
+.category .footer-links{
+    text-decoration: none;
+    text-transform: capitalize;
+    color: rgba(255, 255, 255, 0.75);
+}
