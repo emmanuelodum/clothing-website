@@ -16,8 +16,16 @@ footer{
     height: 160px;
 }
 
-.footer-container{
+.footer-ul-container{
     width: 45%;
     display: flex;
     justify-content: space-between;
+}
+
+.category{
+    width: 200px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+    list-style: none;
 }
