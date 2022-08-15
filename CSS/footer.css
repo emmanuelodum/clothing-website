@@ -29,3 +29,10 @@ footer{
     grid-gap: 10px;
     list-style: none;
 }
+
+
+.category-title{
+    grid-column: span 2;
+    text-transform: capitalize;
+    color: #fff;
+}
