@@ -35,9 +35,11 @@ footer{
     grid-column: span 2;
     text-transform: capitalize;
     color: #fff;
+    font-size: 20px;
+    margin-bottom: 20px;
 }
 
-.category .footer-links{
+.category .footer-link{
     text-decoration: none;
     text-transform: capitalize;
     color: rgba(255, 255, 255, 0.75);
