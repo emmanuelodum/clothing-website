@@ -48,3 +48,9 @@ footer{
 .footer-link:hover{
     color: #fff;
 }
+
+.footer-title, .info{
+    color: #fff;
+    margin: 20px 0;
+    text-transform: capitalize;
+}
