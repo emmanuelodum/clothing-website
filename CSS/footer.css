@@ -54,3 +54,8 @@ footer{
     margin: 20px 0;
     text-transform: capitalize;
 }
+
+.footer-title{
+    margin-top: 80px;
+    color: #fff;
+}
