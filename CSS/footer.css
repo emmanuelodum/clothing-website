@@ -65,3 +65,8 @@ footer{
     display: flex;
     justify-content: space-between;
 }
+
+.social-link{
+    color: #fff;
+    margin-left: 20px;
+}
