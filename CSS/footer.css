@@ -59,3 +59,9 @@ footer{
     margin-top: 80px;
     color: #fff;
 }
+
+.footer-social-container{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
