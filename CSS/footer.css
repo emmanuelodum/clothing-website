@@ -42,7 +42,7 @@ footer{
 .category .footer-link{
     text-decoration: none;
     text-transform: capitalize;
-    color: rgba(170, 152, 236, 0.5);
+    color: rgba(159, 238, 159, 0.863);
 }
 
 .footer-link:hover{
@@ -69,4 +69,5 @@ footer{
 .social-link{
     color: #fff;
     margin-left: 20px;
+    text-decoration: none;
 }
